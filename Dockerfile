@@ -6,4 +6,4 @@ WORKDIR /app
 ENV HOST="0.0.0.0"
 EXPOSE 5000
 
-CMD ["python3" "main.py"]
+CMD ["python3", "main.py"]
